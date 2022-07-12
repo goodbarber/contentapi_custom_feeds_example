@@ -1,0 +1,52 @@
+{
+  "dedup": true,
+  "generated_in": "0.010000 s",
+  "items": [
+    {
+      "address": "12 Rue G\u00e9n\u00e9ral Fiorella Ajaccio",
+      "author": "",
+      "commentsEnabled": true,
+      "commentsPostUrl": "http:\/\/dume112.goodbarber.com\/apiv3\/submitComment\/10844986\/8608047\/?username=[name]&comment=[content]&email=[email]",
+      "commentsUrl": "http:\/\/dume112.goodbarber.com\/apiv3\/getCommentsByItem\/10844986\/8608047\/1\/24\/",
+      "content": " <div class=\"photo top\" style=\"text-align:center\"> <a href=\"http:\/\/dume112.goodbarber.com\/photo\/art\/grande\/8608047-13570563.jpg\" target=\"_blank\"> <img id=\"img-8608047-13570563\" src=\"http:\/\/dume112.goodbarber.com\/photo\/art\/default\/8608047-13570563.jpg?v=1449133145\" alt=\"CampusPlex\" title=\"CampusPlex\" \/> <\/a> <\/div> <br class=\"clear\" \/> <div class=\"texte\"> <p>Creative Ecosystem!<\/p> <\/div> <br class=\"clear\" \/> ",
+      "contentTemplate": null,
+      "date": "2015-12-03T09:59:00+01:00",
+      "email": "",
+      "id": 8608047,
+      "images": [
+        {
+          "id": "img-8608047-13570563",
+          "url": "http:\/\/dume112.goodbarber.com\/photo\/art\/default\/8608047-13570563.jpg?v=1449133145"
+        }
+      ],
+      "isFeatured": "img-8608047-13570563",
+      "isHeadline": 0,
+      "largeThumbnail": "http:\/\/dume112.goodbarber.com\/photo\/art\/large_x2_16_9\/8608047-13570563.jpg?v=1449133146",
+      "latitude": "41.9189404",
+      "leadin": null,
+      "longitude": "8.7350822",
+      "nbcomments": 0,
+      "originalThumbnail": "http:\/\/dume112.goodbarber.com\/photo\/art\/grande\/8608047-13570563.jpg?v=1449133144",
+      "phoneNumber": "",
+      "pinIconColor": "#e94f06",
+      "pinIconHeight": 300,
+      "pinIconUrl": "http:\/\/dume112.goodbarber.com\/assets\/img\/gbpreview\/mask\/map-pin1.png",
+      "pinIconWidth": 150,
+      "smallThumbnail": "http:\/\/dume112.goodbarber.com\/photo\/art\/imagette_16_9\/8608047-13570563.jpg?v=1449133150",
+      "subsections": {
+        "10844986": [
+          "All categories"
+        ]
+      },
+      "subtype": "mcms",
+      "summary": "Creative Ecosystem!",
+      "thumbnail": "http:\/\/dume112.goodbarber.com\/photo\/art\/large_16_9\/8608047-13570563.jpg?v=1449133155",
+      "title": "CampusPlex",
+      "type": "maps",
+      "url": "http:\/\/dume112.goodbarber.com\/#!section=10844986&item=8608047",
+      "website": ""
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}
