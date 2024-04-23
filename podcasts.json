@@ -1,41 +1,40 @@
 {
-  "dedup": true,
-  "generated_in": "0.010000 s",
   "items": [
-    {
-      "id": "1d50264b5b69bde07c6780214c1e7908",
-      "type": "sound",
-      "title": "052 ISG - United entitlement, electronics ban, ANA Star Wars 787, Level, Finnair 350",
-      "url": "http:\/\/tracking.feedpress.it\/link\/9711\/5770969",
-      "date": "2017-05-02T00:00:00+0000",
-      "author": "Paul Papadimitriou and Alex Hunter on air travel and aviation",
-      "authorAvatarUrl": "",
-      "content": "<div>Flight 052. The entitlement of United. The electronics ban. A new Star Wars ANA 787. A giant airport kebab. And more. \u2014 www.layovers.to\/podcast\/052-isg<img src=\"https:\/\/back.ww-cdn.com\/resizeapi\/ab7ee4376b6be99d25bfd8ce023385afd5ece5ebfa3e12b4d94f261fb74fc5f0\/750\/-1\/\" height=\"auto\" width=\"600\" id=\"img-ab7ee4376b6be99d25bfd8ce023385afd5ece5ebfa3e12b4d94f261fb74fc5f0\"><\/img><\/div>",
-      "nbcomments": 0,
-      "commentsEnabled": false,
-      "commentsUrl": "",
-      "summary": "Flight 052. The entitlement of United. The electronics ban. A new Star Wars ANA 787. A giant airport kebab. And more. \u2014 www.layovers.to\/podcast\/052-isg",
-      "thumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/314\/196\/",
-      "smallThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/157\/93\/",
-      "largeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/750\/-1\/",
-      "xLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/1200\/-1\/",
-      "xxLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/3200\/-1\/",
-      "images": [
-        {
-          "id": "img-layovers-58a5b06bcfd3b_jpg",
-          "url": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
-          "url_large": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
-          "originalSizeUrl": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg"
-        }
-      ],
-      "subtype": "custom",
-      "purshaseUrl": "",
-      "downloadUrl": "http:\/\/tracking.feedpress.it\/link\/9711\/5770970\/320494608-layovers-052-isg.mp3",
-      "streamUrl": "http:\/\/tracking.feedpress.it\/link\/9711\/5770970\/320494608-layovers-052-isg.mp3",
-      "nbFavorites": 0,
-      "length": "114045941"
-    }
+      {
+          "id": "1d50264b5b69bde07c6780214c1e7908",
+          "type": "sound",
+          "title": "052 ISG - United entitlement, electronics ban, ANA Star Wars 787, Level, Finnair 350",
+          "url": "http:\/\/tracking.feedpress.it\/link\/9711\/5770969",
+          "date": "2017-05-02T00:00:00+0000",
+          "author": "Paul Papadimitriou and Alex Hunter on air travel and aviation",
+          "authorAvatarUrl": "",
+          "content": "<div>Flight 052. The entitlement of United. The electronics ban. A new Star Wars ANA 787. A giant airport kebab. And more. \u2014 www.layovers.to\/podcast\/052-isg<img src=\"https:\/\/back.ww-cdn.com\/resizeapi\/ab7ee4376b6be99d25bfd8ce023385afd5ece5ebfa3e12b4d94f261fb74fc5f0\/750\/-1\/\" height=\"auto\" width=\"600\" id=\"img-ab7ee4376b6be99d25bfd8ce023385afd5ece5ebfa3e12b4d94f261fb74fc5f0\"><\/img><\/div>",
+          "nbcomments": 0,
+          "commentsEnabled": false,
+          "commentsUrl": "",
+          "summary": "Flight 052. The entitlement of United. The electronics ban. A new Star Wars ANA 787. A giant airport kebab. And more. \u2014 www.layovers.to\/podcast\/052-isg",
+          "thumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/314\/196\/",
+          "smallThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/157\/93\/",
+          "largeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/750\/-1\/",
+          "xLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/1200\/-1\/",
+          "xxLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/3200\/-1\/",
+          "images": [
+              {
+                  "id": "img-layovers-58a5b06bcfd3b_jpg",
+                  "url": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
+                  "url_large": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
+                  "originalSizeUrl": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg"
+              }
+          ],
+          "subtype": "custom",
+          "purshaseUrl": "",
+          "downloadUrl": "http:\/\/tracking.feedpress.it\/link\/9711\/5770970\/320494608-layovers-052-isg.mp3",
+          "streamUrl": "http:\/\/tracking.feedpress.it\/link\/9711\/5770970\/320494608-layovers-052-isg.mp3",
+          "nbFavorites": 0,
+          "length": "114045941"
+      }
   ],
   "next_page": null,
+  "generated_in": "0.010000 s",
   "stat": "ok"
 }
