@@ -2,13 +2,13 @@
   "items": [
       {
           "author": "Jerome Granados",
-          "content": "@aldric yes you can set filters to display only articles for selected categories. \n\nInstall our WordPress plugin http://wordpress.org/plugins/goodbarber/ to have access to this feature.\n\nSome additional information here:\n1/ GoodBarber Plugin for WordPress - Friday Talk #7 - YouTube\n\n2/ Friday talk: Content filters\n\nDon't hesitate to get back to us if you need help to set filters on your GoodBarber account.",
+          "content": "@aldric yes you can set filters to display only articles for selected categories. \n\nInstall our WordPress plugin https://wordpress.org/plugins/goodbarber/ to have access to this feature.\n\nSome additional information here:\n1/ GoodBarber Plugin for WordPress - Friday Talk #7 - YouTube\n\n2/ Friday talk: Content filters\n\nDon't hesitate to get back to us if you need help to set filters on your GoodBarber account.",
           "date": "2013-10-02T09:31:00+02:00",
           "id": 3897165,
           "subtype": "custom",
           "title": "",
           "type": "comment",
-          "url": "http://blog.goodbarber.com/How-to-make-a-clear-app-with-a-lot-of-content_a238.html?com#comments"
+          "url": "https://blog.goodbarber.com/How-to-make-a-clear-app-with-a-lot-of-content_a238.html?com#comments"
       },
       {
           "author": "Aldric",
@@ -18,7 +18,7 @@
           "subtype": "custom",
           "title": "",
           "type": "comment",
-          "url": "http://blog.goodbarber.com/How-to-make-a-clear-app-with-a-lot-of-content_a238.html?com#comments"
+          "url": "https://blog.goodbarber.com/How-to-make-a-clear-app-with-a-lot-of-content_a238.html?com#comments"
       }
   ],
   "next_page": null,
